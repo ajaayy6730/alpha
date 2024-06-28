@@ -1,2 +1,0 @@
-# alpha
-X_alpha
